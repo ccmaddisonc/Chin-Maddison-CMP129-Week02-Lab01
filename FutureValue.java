@@ -12,8 +12,6 @@ public class FutureValue {
 
         Scanner input = new Scanner(System.in);
 
-        //declare variables
-
         //create title
         System.out.println("Future Value");
         System.out.println("_______________");
